@@ -1,0 +1,24 @@
+{
+  "name": "no-simultaneous-promise-call.js",
+  "homepage": "https://github.com/gion/no-simultaneous-promise-call.js",
+  "authors": [
+    "gion <bogdan.gradinariu@gmail.com>"
+  ],
+  "description": "An utility js function that helps a user that's firing the same async function X times in parallel execute only once.",
+  "main": "cache-simultaneus-promise-calls.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "promise",
+    "cache"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
